@@ -1,0 +1,114 @@
+{
+  "events": [
+    {
+      "city": "Atlanta, GA",
+      "name": "Atlanta Tech Village",
+      "address": "3423 Piedmont Rd NE, Atlanta, GA 30305",
+      "lat": 33.848747,
+      "lng": -84.373385,
+      "time": "2:00 - 3:00 PM EST",
+      "host": "Cherie Lum",
+      "link": "https://www.eventbrite.com/e/google-udacity-graduation-atlanta-location-tickets-53056381064"
+    },
+    {
+      "city": "Bangor, ME",
+      "name": "Cushnoc Brewing Co.",
+      "address": "243 Water Street, Augusta, ME 04330",
+      "lat": 44.315576,
+      "lng": -69.77373,
+      "time": "1:00 - 3:30 PM EST",
+      "host": "Lourdes Wellington",
+      "link": "https://www.eventbrite.com/e/2018-udacity-fend-mws-abnd-celebration-in-maine-tickets-52494205582"
+    },
+    {
+      "city": "Birmingham, AL",
+      "name": "Urban Standard",
+      "address": "2320 2nd Ave N, Birmingham, AL 35203",
+      "lat": 33.517999,
+      "lng": -86.801457,
+      "time": "12:00 - 2:00 PM CST",
+      "host": "Jessica Sutton",
+      "link": "https://www.eventbrite.com/e/udacity-graduation-party-birmingham-al-tickets-52173799238"
+    },
+    {
+      "city": "Chicago, IL",
+      "name": "Toons Bar & Grill",
+      "address": "3857 N Southport Ave, Chicago, IL 60613",
+      "lat": 41.952436,
+      "lng": -87.663799,
+      "time": "2:00 - 5:00 PM CST",
+      "host": "Troy Chuinard",
+      "link": "https://www.eventbrite.com/e/chicago-udacity-scholars-celebration-tickets-52693758450"
+    },
+    {
+      "city": "Dallas, TX",
+      "name": "Dave & Buster's",
+      "address": "9450 N Central Expy, Dallas, TX 75231",
+      "lat": 32.877365,
+      "lng": -96.769056,
+      "time": "3:00 - 5:30 PM CT",
+      "host": "Laurette Leadon",
+      "link": "https://gwg-dfw.eventbrite.com"
+    },
+    {
+      "city": "Houston, TX",
+      "name": "University of Houston",
+      "address": "3551 Cullen Blvd, UH Room 232, Houston, TX 77004",
+      "lng": 29.721472,
+      "lat": -95.34367,
+      "time": "10:00 AM - 2:00 PM CST",
+      "host": "Jose Oviedo",
+      "link": "https://www.eventbrite.com/e/houston-udacity-grow-with-google-graduation-party-tickets-53024962089"
+    },
+    {
+      "city": "Grand Rapids, MI",
+      "name": "Schuler Books & Music",
+      "address": "2660 28th Street Southeast, Grand Rapids, MI 49512",
+      "lat": 42.91143,
+      "lng": -85.601436,
+      "time": "2:00 - 4:00 PM EST",
+      "host": "Regina Ruark",
+      "link": "https://www.eventbrite.com/e/udacity-celebration-grand-rapids-tickets-52855586482?ref=estw"
+    },
+    {
+      "city": "Phoenix, AZ",
+      "name": "The Duce",
+      "address": "525 S Central Ave, Phoenix, AZ 85004",
+      "lat": 33.442448,
+      "lng": -112.073486,
+      "time": "11:30 AM - 2:30 PM MST",
+      "host": "Typhaney Bennett",
+      "link": "https://www.eventbrite.com/e/2018-udacity-grow-with-google-scholars-arizona-grad-meetup-tickets-52671834876"
+    },
+    {
+      "city": "San Jose, CA",
+      "name": "UCSC Silicon Valley Extension",
+      "address": "3175 Bowers Ave, Santa Clara, CA 95054",
+      "lat": 37.379698,
+      "lng": -121.976548,
+      "time": "10:30 AM - 12:30 PM PST",
+      "host": "Heggy Castaneda",
+      "link": "https://www.meetup.com/Crack-into-Tech/events/256413241/?isFirstPublish=true"
+    },
+    {
+      "city": "Seattle, WA",
+      "name": "Fremont Branch Library",
+      "address": "731 N. 35th St., Seattle, WA 98103",
+      "lat": 47.650071,
+      "lng": -122.350444,
+      "time": "11:00 AM - 1:00 PM PST",
+      "host": "Ming Ho",
+      "link": "https://www.eventbrite.com/e/seattle-udacity-grow-with-google-graduation-celebration-tickets-52319834032"
+    },
+    {
+      "city": "Washington, D.C",
+      "name": "Capital City Brewing Company",
+      "address": "1100 New York Ave., NW, Washington D.C. 20005",
+      "lat": 38.900256,
+      "lng": -77.027589,
+      "time": "1:00 - 3:00 PM EST",
+      "host": "Laura Truncellito",
+      "link": "https://www.eventbrite.com/e/udacity-2018-grow-with-google-scholars-graduation-party-washington-dc-tickets-52690625078"
+    }
+  ]
+}

@@ -1,0 +1,175 @@
+body { font-family: "Open Sans",sans-serif; }
+
+.App {
+  text-align: center;
+}
+
+.App-header {
+  background-image: url('./Assets/party.jpg');
+  background-size: cover;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  height: 100px;
+  p {
+    width: 100%;
+    color: white;
+    text-shadow: 2px 2px 4px #000000;
+  }
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+/* General sidebar styles */
+.bm-menu {
+  background: linear-gradient(160deg,#02b3e4,#02ccba);;
+  padding: 10px 0 0;
+  font-size: 1.15em;
+  width: 90%;
+  height: 100%;
+}
+
+/* Position and sizing of burger button */
+.bm-burger-button {
+  position: fixed;
+  width: 36px;
+  height: 30px;
+  left: 36px;
+  top: 15px;
+}
+
+.bm-burger-button:focus {
+  color: #7d97ad;
+}
+
+/* Color/shape of burger icon bars */
+.bm-burger-bars {
+  background: #02b3e4;
+}
+
+/* Position and sizing of clickable cross button */
+.bm-cross-button {
+  height: 24px;
+  width: 24px;
+}
+
+/* Color/shape of close button cross */
+.bm-cross {
+  background: #000000;
+}
+
+/* Morph shape necessary with bubble or elastic */
+.bm-morph-shape {
+  fill: #373a47;
+}
+
+/* Wrapper for item list */
+.bm-item-list {
+  color: #ffffff;
+  padding: 0;
+  width: 100%;
+  height: 100%;
+  overflow: scroll;
+}
+
+/* Individual item */
+.bm-item {
+  display: inline-block;
+}
+
+/* Styling of overlay */
+.bm-overlay {
+  background: rgba(0, 0, 0, 0.3);
+  left: 0px;
+  width: 250px;
+}
+
+.burger-menu {
+  left: 0;
+}
+
+.venue-list {
+  padding-left: 0;
+  margin: 10px 1px 0 1px;
+}
+
+.list-item {
+  font-size: 15px;
+  list-style-type: none;
+}
+
+button:hover {
+  background: rgb(255, 84, 131);
+}
+
+button:focus {
+  background: rgb(255, 139, 171);
+}
+
+.item {
+  width: 100%;
+  height: 52.5px;
+  padding: 0;
+  border-width: 0.5px 1px 0px 1px;
+  border-style: solid;
+  border-color: white;
+  background: linear-gradient(160deg,#02b3e4,#02ccba);
+  color: white;
+  font-weight: bold;
+}
+
+.list-item:last-child {
+  border-bottom: 1px solid #dfe748;
+}
+
+.label {
+  font-size: 20px;
+}
+
+#searchBox {
+  width: 90%;
+  height: 30px;
+  margin-bottom: 10px;
+}
+
+.gm-style-iw {
+  background: linear-gradient(160deg,#02b3e4,#02ccba);
+}
+
+.gm-style-iw h4 {
+  color: black;
+}
+
+.gm-style-iw p {
+  color: white;
+}
+
+.map {
+  max-height: 88%;
+}
+
+@media only screen and (max-width: 500px) {
+  .bm-burger-button {
+    left: 15px;
+    width: 30px;
+  }
+  .App-header span {
+    font-size: 12px;
+    font-weight: bold;
+  }
+}
+
+@media only screen and (min-width: 501px) {
+  .bm-burger-button {
+    left: 20px;
+    width: 30px;
+    top: 18px;
+  }
+  .App-header h1 {
+    font-size: 30px;
+  }
+}
