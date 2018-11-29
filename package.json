@@ -2,7 +2,9 @@
   "name": "grad",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://super-ming.github.io/2018-Grow-With-Google-Graduation-Party-Map/",
   "dependencies": {
+    "gh-pages": "^2.0.1",
     "google-maps-react": "^2.0.2",
     "node-sass": "^4.10.0",
     "react": "^16.6.3",
