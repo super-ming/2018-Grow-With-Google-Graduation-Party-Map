@@ -24,11 +24,11 @@ class App extends Component {
   updateQuery = (input) => {
     if(this.state.infoWindow){
       this.state.infoWindow.close();
+      this.setState({
+        query: input,
+        menuOpen: true
+      }, this.filterList(input));
     }
-    this.setState({
-      query: input,
-      menuOpen: true
-    }, this.filterList(input));
   }
 
   //when a list item is clicked on, save the item name, show marker for item and hide other markers
