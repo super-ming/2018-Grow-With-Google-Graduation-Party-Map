@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/2018-Grow-With-Google-Graduation-Party-Map/precache-manifest.08dece17ffc2430209a121c920ea7452.js"
+  "/2018-Grow-With-Google-Graduation-Party-Map/precache-manifest.2b4368eb77aa2309c6dacc3fdb2d282a.js"
 );
 
 workbox.clientsClaim();
