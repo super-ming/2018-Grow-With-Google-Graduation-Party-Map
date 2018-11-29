@@ -22,7 +22,7 @@ class App extends Component {
   }
 
   updateQuery = (input) => {
-    if(this.state.infoWindow){
+    if(this.state.showingInfoWindow){
       this.state.infoWindow.close();
       this.setState({
         query: input,
@@ -137,6 +137,12 @@ class App extends Component {
     })
   }
 
+  showWindow = ()=> {
+    this.setState({
+      showingInfoWindow: true
+    })
+  }
+
   render() {
     return (
       <div className="App">
@@ -180,6 +186,7 @@ class App extends Component {
             setMarkerVisibility={this.setMarkerVisibility}
             triggerMarkerClick={this.triggerMarkerClick}
             updateQuery={this.updateQuery}
+            showWindow={this.showWindow}
           />
         </main>
       </div>
