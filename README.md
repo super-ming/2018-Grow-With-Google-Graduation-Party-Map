@@ -23,6 +23,10 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 The page will reload if you make edits.<br>
 You will also see any lint errors in the console.
 
+### Debugging note: Error when trying to run it on your local machine
+1) After running `npm start` and you see error such as "node_modules missing" then Try Running: `npm install`
+> `npm install` command will install the dependencies automatically for you
+
 ### Dependencies
 * google-maps-react: ^2.0.2
 * node-sass: ^4.10.0
