@@ -71,6 +71,16 @@
       "link": "https://www.eventbrite.com/e/udacity-celebration-grand-rapids-tickets-52855586482?ref=estw"
     },
     {
+      "city": "Los Angeles, CA",
+      "name": "Don Chuy’s Mexican Restaurant",
+      "address": "11800 Jefferson Boulevard, Los Angeles, CA 90230",
+      "lat": 33.985995,
+      "lng": -118.401393,
+      "time": "10:30 AM - 12:30 PM PST",
+      "host": "Steve Sobelman",
+      "link": "https://www.eventbrite.com/e/udacity-grow-with-google-los-angeles-area-graduation-meetup-tickets-53001581156"
+    },
+    {
       "city": "Phoenix, AZ",
       "name": "The Duce",
       "address": "525 S Central Ave, Phoenix, AZ 85004",
