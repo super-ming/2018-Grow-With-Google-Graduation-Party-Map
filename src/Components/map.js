@@ -22,7 +22,8 @@ class MapContainer extends Component {
   //fetch event info
   getEventInfo = () => {
     let searchResults = [];
-    const placeSearchUrl = "https://api.myjson.com/bins/15lojm"
+    // JSON store http://myjson.com directly access JSON of meetup info updated with LA info - Heggy
+    const placeSearchUrl = "https://api.myjson.com/bins/i15h6"
     let headers = new Headers();
     let request = new Request(placeSearchUrl, {
       method: 'GET',
