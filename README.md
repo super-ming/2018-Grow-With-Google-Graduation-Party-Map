@@ -7,11 +7,13 @@ Over the last 9 months, students from across the United States worked to advance
 
 In the beginning, 50,000 students were chosen to participate in the Challenge Course. Then it was narrowed down to the top 5%.
 
-Thanks to all of the scholars who stepped up to organize the events! 
+Thanks to all of the scholars who stepped up to organize the events!
 
 DISCLAIMER: This event is a privately sponsored event organized by students or alumni in our community and is not an official Udacity event of any kind.
 
 ## How To Run
+
+Clone the files to your local machine. Open a terminal, go to the project directory, and type `install npm` to add the required dependencies.
 
 In the project directory, you can run:
 
