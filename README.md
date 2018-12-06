@@ -1,4 +1,5 @@
-## 2018 Udacity Grow With Google Scholarship Graduation Events
+## 2018 Udacity Grow With Google Scholarship Graduation Event Party Map:
+![Demo Party Map](https://media.giphy.com/media/2dmiJgDS1y3oBrAscV/giphy.gif)
 
 This application uses Google Maps API to display upcoming graduation events that are organized by fellow graduates
 of the Grow with Google Scholarship program.
@@ -16,6 +17,8 @@ DISCLAIMER: This event is a privately sponsored event organized by students or a
 Clone the files to your local machine. Open a terminal, go to the project directory, and type `install npm` to add the required dependencies.
 
 In the project directory, you can run:
+### `npm install`
+(command will install the dependencies automatically for you)
 
 ### `npm start`
 
