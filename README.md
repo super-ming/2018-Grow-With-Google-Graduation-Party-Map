@@ -15,6 +15,8 @@ DISCLAIMER: This event is a privately sponsored event organized by students or a
 ## How To Run
 
 In the project directory, you can run:
+### `npm install`
+(command will install the dependencies automatically for you)
 
 ### `npm start`
 
@@ -31,9 +33,5 @@ You will also see any lint errors in the console.
 * react-burger-menu: ^2.5.4
 * react-dom: "^16.6.3
 * react-scripts:"2.1.1
-
-### Debugging note: Error when trying to run it on your local machine
-1) After running `npm start` and you see error such as "node_modules missing" then Try Running: `npm install`
-> `npm install` command will install the dependencies automatically for you
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
