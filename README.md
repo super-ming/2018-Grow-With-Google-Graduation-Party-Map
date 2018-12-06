@@ -1,4 +1,4 @@
-## 2018 Udacity Grow With Google Scholarship Graduation Events
+## 2018 Udacity Grow With Google Scholarship Graduation Event Party Map:
 ![Demo Party Map](https://media.giphy.com/media/2dmiJgDS1y3oBrAscV/giphy.gif)
 
 This application uses Google Maps API to display upcoming graduation events that are organized by fellow graduates
